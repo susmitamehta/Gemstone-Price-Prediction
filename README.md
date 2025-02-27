@@ -1,1 +1,1 @@
-# Gemstone-Price-Prediction Project @
+# Gemstone-Price-Prediction Project 
